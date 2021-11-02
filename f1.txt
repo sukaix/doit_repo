@@ -2,3 +2,5 @@ a
 b
 c
 d
+
+3일 git_home에서 e를 추가함
